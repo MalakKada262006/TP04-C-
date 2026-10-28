@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1793191981 source:c:\users\cli\onedrive\desktop\tp04-c++\exerc2\university.cpp
+	"University.hpp"
+
+1793191713 c:\users\cli\onedrive\desktop\tp04-c++\exerc2\university.hpp
+	<string>
+	<iostream>
+
+1793191976 source:c:\users\cli\onedrive\desktop\tp04-c++\exerc2\main.cpp
+	"University.hpp"
+	"Etudiant.hpp"
+	<iostream>
+	<windows.h>
+
+1793191986 c:\users\cli\onedrive\desktop\tp04-c++\exerc2\etudiant.hpp
+	<string>
+	<iostream>
+	"University.hpp"
+
+1793192023 source:c:\users\cli\onedrive\desktop\tp04-c++\exerc2\etudiant.cpp
+	"Etudiant.hpp"
+

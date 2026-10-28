@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1793190824 source:c:\users\cli\onedrive\desktop\tp04-c++\exerc1\livre.cpp
+	"Livre.hpp"
+
+1793190889 c:\users\cli\onedrive\desktop\tp04-c++\exerc1\livre.hpp
+	<string>
+	<iostream>
+
+1793191454 source:c:\users\cli\onedrive\desktop\tp04-c++\exerc1\main.cpp
+	"Livre.hpp"
+	<iostream>
+	<windows.h>
+
